@@ -1,0 +1,33 @@
+.product-handle{
+  width: 300px;
+ 
+  border: 1px solid #95A0A7;
+  border-radius: 8px;
+}
+.product-handle img{
+  padding: 8px 7px;
+  border-radius: 8px;
+  width: 286px;
+  height: 286px;
+   
+}
+.product-handle button{
+  Width: 300px;
+  Height: 48px;
+  background-color: #FFE0B3;
+  border: 1px solid #95A0A7;
+  border-radius: 0px 0px 8px 8px;
+  font-size: 15px;
+  margin-top: 20px;
+}
+.product-handle button:hover{
+  background-color: orange;
+}
+.text-details{
+  padding-left: 14px;
+  margin-top: 4px;
+}
+.text-details p{
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
